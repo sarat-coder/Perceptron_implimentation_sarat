@@ -15,6 +15,7 @@ C:\Users\SSSSO\anaconda3\
 at the end in path variable.
 # to install requirements.txt
 pip install -r requirements.txt
+test
 
 
 
