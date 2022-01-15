@@ -15,7 +15,13 @@ C:\Users\SSSSO\anaconda3\
 at the end in path variable.
 # to install requirements.txt
 pip install -r requirements.txt
-test1
+# create a directory for jupyter notebook
+mkdir Reasearch_env
+# go to that directory
+cd Reasearch_env/
+#Louch jupyter notebooke
+jupyter-notebook
+
 
 
 
